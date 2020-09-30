@@ -28,13 +28,13 @@ p {
 /* Containers */
 
 .container-fluid{
-  padding: 7% 15%;
+  padding: 9% 18%;
 }
 
 /* Sections */
 
 .colored-section {
-  background-color: #ff4c68;
+  background-color: #ff4c78;
   color: #fff;
 }
 
@@ -66,7 +66,7 @@ p {
 /* Buttons */
 
 .download-button {
-  margin: 5% 3% 5% 0;
+  margin: 7% 3% 5% 0;
 }
 
 /* Title Section */
@@ -105,7 +105,7 @@ p {
 }
 
 .icon {
-  color: #ef8172;
+  color: #ef8174;
   margin-bottom: 1rem;
 }
 
