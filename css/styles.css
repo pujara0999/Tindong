@@ -17,12 +17,12 @@ p {
 .big-heading {
  font-family: 'Dancing Script', cursive;
   font-size: 3.5rem;
-  line-height: 1.5;
+  line-height: 1.8;
 }
 
 .section-heading {
   font-size: 3rem;
-  line-height: 1.5;
+  line-height: 1.8;
 }
 
 /* Containers */
@@ -59,7 +59,7 @@ p {
 }
 
 .nav-link {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
  font-family: 'Dancing Script', cursive;
 }
 
